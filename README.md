@@ -10,6 +10,8 @@ The platform is built using high performance and industry standard components on
 
 ## Platform Architecture
 
+![Image alt](https://github.com/Noshika-Trading-FZE/.github/blob/3d71c346dd746b0b10767d80bd46b5cce0701fa2/unnamed.jpg)
+
 Gii is built using high performance and industry-standard components on the backend side and provides a modern and powerful set of APIs available for its services to achieve high performance from one hand and extensive functionality from the other:
 - Gii Core and API- PostgreSQL based platform with REST/GRPC GraphQL application interface;
 - Gii Logics - Python script processor;
